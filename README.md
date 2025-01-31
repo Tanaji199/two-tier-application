@@ -1,6 +1,9 @@
-this it the final deployment of flask app 
+## This is the final deployment of Flaskapp 
 
  ![two-tier-application](https://github.com/Tanaji199/two-tier-application/blob/master/flask%20app_Two_tier-app.jpeg?raw=true)
+
+## interaction with Mysql database
+ ![two-tier-application](https://github.com/Tanaji199/two-tier-application/blob/master/data%20stored%20in%20Mysql.jpeg?raw=true)
 
 # Flask App with MySQL Docker Setup
 
