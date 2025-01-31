@@ -1,6 +1,6 @@
 this it the final deployment of flask app 
 
- ![Image Alt]([image_url](https://github.com/Tanaji199/two-tier-application/blob/master/flask%20app_Two_tier-app.jpeg?raw=true))
+ ![two-tier-application]([image_url](https://github.com/Tanaji199/two-tier-application/blob/master/flask%20app_Two_tier-app.jpeg?raw=true))
 
 # Flask App with MySQL Docker Setup
 
