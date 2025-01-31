@@ -1,4 +1,7 @@
- 
+this it the final deployment of flask app 
+
+ ![Image Alt]([image_url](https://github.com/Tanaji199/two-tier-application/blob/master/flask%20app_Two_tier-app.jpeg?raw=true))
+
 # Flask App with MySQL Docker Setup
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
